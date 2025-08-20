@@ -9,6 +9,7 @@ print("after merge=",d3)
 #print(d2)
 #print(d3)
 
-#d1.update(d2)
-#print(d1)
+d1.update(d2)
+print(d1)
 #print(d2)
+
